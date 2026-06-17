@@ -18,3 +18,21 @@
 6. Читаю обратно и показываю
 
 Скриншоты с настройкой Yandex Cloud и запуском кода PySpark
+
+![](screenshots/screen_1.png)
+
+![](screenshots/screen_2.png)
+
+![](screenshots/screen_3.png)
+
+![](screenshots/screen_4.png)
+
+![](screenshots/screen_5.png)
+
+![](screenshots/screen_6.png)
+
+![](screenshots/screen_7.png)
+
+![](screenshots/screen_8.png)
+
+![](screenshots/screen_9.png)
